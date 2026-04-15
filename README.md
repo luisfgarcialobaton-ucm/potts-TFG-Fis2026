@@ -4,7 +4,7 @@ Simulaciones de Monte Carlo del **modelo de Potts de *q* estados** aplicado a la
 
 > Repositorio de código del Trabajo de Fin de Grado:  
 > **"Modelo de Potts. Fundamentos y aplicaciones"**  
-> Luis Fernando García Lobatón — Doble Grado en Física y Matemáticas  
+> Luis Fernando García Lobatón. Doble Grado en Física y Matemáticas  
 > Universidad Complutense de Madrid, curso 2025–26  
 > Tutor: Juan Pedro García Villaluenga
 
