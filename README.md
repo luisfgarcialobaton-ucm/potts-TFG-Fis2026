@@ -1,4 +1,4 @@
-# potts-market-panic
+# potts-TFG-Fis2026
 
 Simulaciones de Monte Carlo del **modelo de Potts de *q* estados** aplicado a la modelización de mercados financieros, con un mecanismo de **campo de pánico global** para el colapso de burbujas especulativas y la dinámica de crisis sistémicas.
 
